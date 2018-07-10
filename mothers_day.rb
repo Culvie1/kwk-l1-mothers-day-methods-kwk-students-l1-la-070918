@@ -5,8 +5,8 @@ end
 
 mothers_day
 
-def mothers_day(a)
-  puts ("Happy Mother's Day #{a}")
+def mothers_day(b)
+  puts ("Happy Mother's Day #{b}")
 end
 
 mothers_day("Beyonce")
